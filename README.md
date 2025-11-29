@@ -41,3 +41,7 @@ A Verilog testbench was also written to verify correct operation of the ALU. The
 
 The simulation results confirmed that the ALU correctly performs all required operations and generates proper flag outputs.
 This task demonstrates a practical understanding of digital logic design, arithmetic circuits, and hardware description languages.
+
+#OUTPUT
+
+<img width="705" height="716" alt="Image" src="https://github.com/user-attachments/assets/e64f9c5b-3562-48cf-8b42-c2a3aa40eccc" />
